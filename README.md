@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @JoeyAppleTree
+- 👀 I’m interested in data analysis, data manipulation, and software programming.
+- 🌱 I’m currently learning Python and PowerBi.
+- 💞️ I’m looking to collaborate on different projects to increase my understaning and skills as a coder.
+- 📫 You can reach me at jose_massana07@outlook.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I like Dungeons & Dragons.
