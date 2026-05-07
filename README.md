@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Joey Massana
 - 👀 I’m interested in data analysis and software programming.
-- 🌱 I’m currently learning SQL and PowerBi.
+- 🌱 I’m currently getting my certification for SQL and PowerBi.
 - 💞️ I’m looking to collaborate on different projects to increase my understaning and skills as a coder.
 - 📫 You can reach me at https://www.linkedin.com/in/joey-massana/
 - 😄 Pronouns: He/Him
